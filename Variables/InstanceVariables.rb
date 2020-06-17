@@ -1,3 +1,5 @@
+#Bien instance ky hieu @ten_bien
+# Dung cho mot doi tuong rieng le va pham vi cua no la toan bo rong mot lop
 class Existing
   # bien lop dung chung cho tat ca doi tuong
   @@is = true
