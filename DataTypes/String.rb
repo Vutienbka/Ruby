@@ -33,3 +33,8 @@ puts str1.include? ".com"
 msg = "Ruby\nPython"
 puts msg
 puts msg.inspect
+
+
+
+numberString = "五百二十"
+puts numberString.index("百")

@@ -16,7 +16,14 @@ def to_Kansuji number
   sei = "正"
   sai = "載"
   goku = "極"
-  if number < 20
+  googasha = "恒河沙"
+  asoogi = "阿僧祇"
+  nayuta = "那由他"
+  fukashigi = "不可思議"
+  muryootaisuu = "無量大数"
+  if number <= 0
+    return "〇"
+    elsif number < 20
     return unit[number]
   elsif number < 100
     return to_Kansuji(number / 10) + juu + to_Kansuji(number % 10)
@@ -52,6 +59,16 @@ def to_Kansuji number
     return to_Kansuji(number / 10**44) + sai + to_Kansuji(number % 10**44)
   elsif number < 10**52
     return to_Kansuji(number / 10**48) + goku + to_Kansuji(number % 10**48)
+  elsif number < 10**56
+    return to_Kansuji(number / 10**52) + googasha + to_Kansuji(number % 10**52)
+  elsif number < 10**60
+    return to_Kansuji(number / 10**56) + asoogi + to_Kansuji(number % 10**56)
+  elsif number < 10**64
+    return to_Kansuji(number / 10**60) + nayuta + to_Kansuji(number % 10**60)
+  elsif number < 10**68
+    return to_Kansuji(number / 10**64) + fukashigi + to_Kansuji(number % 10**64)
+  else
+    return muryootaisuu
   end
 end
-puts to_Kansuji 10000000000000000000000000000000000000000
+puts to_Kansuji 99999999999999999999999999999999999999999999999999999999999999999999

@@ -61,7 +61,7 @@
                 else if(str.equalsIgnoreCase("nine")) {
                     result += 9;
                 }
-                else if(str.equalsIgnoreCase("ten")) {
+                else if(str.equalsIgnoreCase("ten")) {'
                     result += 10;
                 }
                 else if(str.equalsIgnoreCase("eleven")) {
