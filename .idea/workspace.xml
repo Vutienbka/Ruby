@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="64072734-b7cb-493a-80b4-37f4f57b6da2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FinalPractise/Test1.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String to number.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kansuj/kansuji/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kansuj/kansuji/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kansuj/kansuji/lib/kansuji.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Kansuj/kansuji/lib/kansuji.rb" afterDir="false" />
@@ -32,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Ruby.kansuji">
@@ -99,11 +119,24 @@
       <updated>1592313010180</updated>
       <workItem from="1592313011590" duration="2349000" />
       <workItem from="1592317476759" duration="4424000" />
+      <workItem from="1592321971619" duration="126000" />
+      <workItem from="1592525315668" duration="714000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="655" y="296" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592314053305">
