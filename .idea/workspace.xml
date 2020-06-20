@@ -20,15 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64072734-b7cb-493a-80b4-37f4f57b6da2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FinalPractise/CheckResults.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalPractise/KanjiToNumber.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/Enum.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/PreviousCode.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/StringToNUmber.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/Test2.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/BaiMau.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/Test3.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/Test3.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/ToKansuji.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/NumberToKanji.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/fsdf.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/SimpleExample.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinalPractise/KanjiToNumber.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/KanjiToNumber.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kansuj/kansuji/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kansuj/kansuji/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kansuj/kansuji/lib/kansuji.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Kansuj/kansuji/lib/kansuji.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kansuj/kansuji/spec/lib/acceptance_spec.rb" beforeDir="false" />
@@ -172,7 +165,7 @@
       <workItem from="1592321971619" duration="126000" />
       <workItem from="1592525315668" duration="791000" />
       <workItem from="1592638479052" duration="6729000" />
-      <workItem from="1592646977493" duration="15612000" />
+      <workItem from="1592646977493" duration="16618000" />
     </task>
     <servers />
   </component>
@@ -200,22 +193,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592318526396" />
-    <state width="1865" height="259" key="GridCell.Tab.0.bottom" timestamp="1592669454188">
+    <state width="1865" height="259" key="GridCell.Tab.0.bottom" timestamp="1592669506186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592669454188" />
-    <state width="1865" height="259" key="GridCell.Tab.0.center" timestamp="1592669454188">
+    <state width="1865" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592669506186" />
+    <state width="1865" height="259" key="GridCell.Tab.0.center" timestamp="1592669506185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592669454188" />
-    <state width="1865" height="259" key="GridCell.Tab.0.left" timestamp="1592669454187">
+    <state width="1865" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592669506185" />
+    <state width="1865" height="259" key="GridCell.Tab.0.left" timestamp="1592669506185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592669454187" />
-    <state width="1865" height="259" key="GridCell.Tab.0.right" timestamp="1592669454188">
+    <state width="1865" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592669506185" />
+    <state width="1865" height="259" key="GridCell.Tab.0.right" timestamp="1592669506186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592669454188" />
+    <state width="1865" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592669506186" />
     <state width="1865" height="322" key="GridCell.Tab.1.bottom" timestamp="1592654515635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

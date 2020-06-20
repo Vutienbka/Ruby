@@ -1,3 +1,4 @@
+class NumberToString
 def to_Kansuji number
   unit = ["〇", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八", "十九"]
   m_num = {:juu => "十", :hyaku => "百", :sen => "千", :man => "万", :ooku => "億", :chou => "兆", :kei => "京", :gai => "垓", :jo => "𥝱", :joo => "穣", :koo => "溝",
@@ -52,4 +53,6 @@ def to_Kansuji number
     return m_num[:muryootaisuu]
   end
 end
-puts to_Kansuji 12345678
+end
+test = NumberToString.new
+puts test.to_Kansuji 12345678
