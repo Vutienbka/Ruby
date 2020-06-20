@@ -34,7 +34,20 @@ msg = "Ruby\nPython"
 puts msg
 puts msg.inspect
 
-
-
 numberString = "五百二十"
 puts numberString.index("百")
+
+# noi chuoi
+string = "Hello"
+string << " World"
+puts string
+string += " ,My name is Jonh"
+puts string
+
+# Chuyen chuoi sang mang
+
+splitString = string.split
+
+splitString.map do |string|
+  puts string
+end

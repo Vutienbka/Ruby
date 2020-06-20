@@ -61,7 +61,7 @@ p hash.empty?
 # Kiem tra co su ton tai cua cac phan tu trong hash hay khong
 p hash.include? :a
 p hash.has_key? :a
-p hash.has_key? :a
+p hash.has_value? "Jane"
 p hash.member? :a
 
 hash.each do |key,value|
