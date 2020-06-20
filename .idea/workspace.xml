@@ -21,9 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="64072734-b7cb-493a-80b4-37f4f57b6da2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/KanjiToNumber.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/Enum.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/NumberToKanji.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/ToKansuji.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/StringToNumberTest.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/StringToNUmber.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FinalPractise/Test3.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/Test3.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kansuj/kansuji/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kansuj/kansuji/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kansuj/kansuji/lib/kansuji.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Kansuj/kansuji/lib/kansuji.rb" afterDir="false" />
@@ -154,7 +151,7 @@
       <workItem from="1592321971619" duration="126000" />
       <workItem from="1592525315668" duration="791000" />
       <workItem from="1592638479052" duration="6729000" />
-      <workItem from="1592646977493" duration="8847000" />
+      <workItem from="1592646977493" duration="10751000" />
     </task>
     <servers />
   </component>
@@ -182,22 +179,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592318526396" />
-    <state width="1865" height="259" key="GridCell.Tab.0.bottom" timestamp="1592656379184">
+    <state width="1865" height="259" key="GridCell.Tab.0.bottom" timestamp="1592663878482">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592656379184" />
-    <state width="1865" height="259" key="GridCell.Tab.0.center" timestamp="1592656379184">
+    <state width="1865" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592663878482" />
+    <state width="1865" height="259" key="GridCell.Tab.0.center" timestamp="1592663878481">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592656379184" />
-    <state width="1865" height="259" key="GridCell.Tab.0.left" timestamp="1592656379184">
+    <state width="1865" height="259" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592663878481" />
+    <state width="1865" height="259" key="GridCell.Tab.0.left" timestamp="1592663878481">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592656379184" />
-    <state width="1865" height="259" key="GridCell.Tab.0.right" timestamp="1592656379184">
+    <state width="1865" height="259" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592663878481" />
+    <state width="1865" height="259" key="GridCell.Tab.0.right" timestamp="1592663878481">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592656379184" />
+    <state width="1865" height="259" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592663878481" />
     <state width="1865" height="322" key="GridCell.Tab.1.bottom" timestamp="1592654515635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -225,6 +222,6 @@
     <SUITE FILE_PATH="coverage/Ruby@kansuji.rcov" NAME="kansuji Coverage Results" MODIFIED="1592318572181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kansuj/kansuji/lib" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@SwitchCase.rcov" NAME="SwitchCase Coverage Results" MODIFIED="1592318290827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@Hash.rcov" NAME="Hash Coverage Results" MODIFIED="1592646626489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CollectionInRuby" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="coverage/Ruby@Test3.rcov" NAME="Test3 Coverage Results" MODIFIED="1592656359666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FinalPractise" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@Test3.rcov" NAME="Test3 Coverage Results" MODIFIED="1592663997875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FinalPractise" MODULE_NAME="Ruby" />
   </component>
 </project>
