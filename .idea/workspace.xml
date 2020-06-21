@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64072734-b7cb-493a-80b4-37f4f57b6da2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MakeTest/KanjiStringToNumber.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MakeTest/NumberToKanjiString.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegexExpression/RegexExpression.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/KanjiToNumber.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/KanjiToNumber.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/NumberToKanji.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/NumberToKanji.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinalPractise/Test3.rb" beforeDir="false" afterPath="$PROJECT_DIR$/FinalPractise/Test3.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegexExpression/RegexExpression.rb" beforeDir="false" afterPath="$PROJECT_DIR$/RegexExpression/RegexExpression.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +51,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected="Ruby.NumberToKanjiString">
+  <component name="RunManager" selected="Ruby.RegexExpression">
     <configuration name="BaiMau" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -113,27 +108,27 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="RegexExpression" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Ruby" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/FinalPractise" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/RegexExpression" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/FinalPractise/Test3.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/RegexExpression/RegexExpression.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.RegexExpression" />
         <item itemvalue="Ruby.NumberToKanjiString" />
         <item itemvalue="Ruby.KanjiStringToNumber" />
         <item itemvalue="Ruby.KanjiToNumber" />
         <item itemvalue="Ruby.BaiMau" />
-        <item itemvalue="Ruby.Test3" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +151,7 @@
       <workItem from="1592646977493" duration="17531000" />
       <workItem from="1592705486188" duration="5418000" />
       <workItem from="1592710964434" duration="11156000" />
-      <workItem from="1592722625785" duration="2759000" />
+      <workItem from="1592722625785" duration="6000000" />
     </task>
     <servers />
   </component>
@@ -196,22 +191,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592710553533" />
-    <state width="1865" height="220" key="GridCell.Tab.0.bottom" timestamp="1592725324557">
+    <state width="1865" height="220" key="GridCell.Tab.0.bottom" timestamp="1592731779318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592725324557" />
-    <state width="1865" height="220" key="GridCell.Tab.0.center" timestamp="1592725324557">
+    <state width="1865" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592731779318" />
+    <state width="1865" height="220" key="GridCell.Tab.0.center" timestamp="1592731779318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592725324557" />
-    <state width="1865" height="220" key="GridCell.Tab.0.left" timestamp="1592725324557">
+    <state width="1865" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592731779318" />
+    <state width="1865" height="220" key="GridCell.Tab.0.left" timestamp="1592731779318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592725324557" />
-    <state width="1865" height="220" key="GridCell.Tab.0.right" timestamp="1592725324557">
+    <state width="1865" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592731779318" />
+    <state width="1865" height="220" key="GridCell.Tab.0.right" timestamp="1592731779318">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592725324557" />
+    <state width="1865" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592731779318" />
     <state width="1865" height="322" key="GridCell.Tab.1.bottom" timestamp="1592722608204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -228,6 +223,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="322" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592722608204" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1592730371641">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592730371641" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Ruby@String.rcov" NAME="String Coverage Results" MODIFIED="1592642964065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataTypes" MODULE_NAME="Ruby" />
@@ -237,6 +236,7 @@
     <SUITE FILE_PATH="coverage/Ruby@Enum.rcov" NAME="Enum Coverage Results" MODIFIED="1592667033119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FinalPractise" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@kansuji.rcov" NAME="kansuji Coverage Results" MODIFIED="1592318572181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kansuj/kansuji/lib" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@KanjiToNumber.rcov" NAME="KanjiToNumber Coverage Results" MODIFIED="1592724959670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FinalPractise" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@RegexExpression.rcov" NAME="RegexExpression Coverage Results" MODIFIED="1592731776559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RegexExpression" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@NumberToKanjiString.rcov" NAME="NumberToKanjiString Coverage Results" MODIFIED="1592725314449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MakeTest" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@Hash.rcov" NAME="Hash Coverage Results" MODIFIED="1592646626489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CollectionInRuby" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@NumberToKanji.rcov" NAME="NumberToKanji Coverage Results" MODIFIED="1592722361293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FinalPractise" MODULE_NAME="Ruby" />
