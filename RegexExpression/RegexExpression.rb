@@ -10,8 +10,8 @@ puts /lorem/.match("lorem isum it")
 # / ^[a-zA-Z0-9\s]{7,16}$/: ÍT nhất 7 kí tự và nhiều nhất 16 kí tự cho phép 0-9, a-z
 #
 
-string = "5345d"
-puts string.match(/[^abc]+/)
+string = "53ab45d"
+puts string.match(/[abc]/)
 # 1	.	Khớp (match) với bất kỳ ký tự nào
 # 2	^regex	Biểu thức chính quy phải  khớp tại điểm bắt đầu
 # 3	regex$	Biểu thức chính quy phải khớp ở cuối dòng.

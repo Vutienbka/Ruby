@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64072734-b7cb-493a-80b4-37f4f57b6da2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RegexExpression/RegexExpression.rb" beforeDir="false" afterPath="$PROJECT_DIR$/RegexExpression/RegexExpression.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +150,7 @@
       <workItem from="1592646977493" duration="17531000" />
       <workItem from="1592705486188" duration="5418000" />
       <workItem from="1592710964434" duration="11156000" />
-      <workItem from="1592722625785" duration="6000000" />
+      <workItem from="1592722625785" duration="6216000" />
     </task>
     <servers />
   </component>
@@ -191,22 +190,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="687" y="215" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592710553533" />
-    <state width="1865" height="220" key="GridCell.Tab.0.bottom" timestamp="1592731779318">
+    <state width="1865" height="220" key="GridCell.Tab.0.bottom" timestamp="1592732035968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592731779318" />
-    <state width="1865" height="220" key="GridCell.Tab.0.center" timestamp="1592731779318">
+    <state width="1865" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592732035968" />
+    <state width="1865" height="220" key="GridCell.Tab.0.center" timestamp="1592732035968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592731779318" />
-    <state width="1865" height="220" key="GridCell.Tab.0.left" timestamp="1592731779318">
+    <state width="1865" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592732035968" />
+    <state width="1865" height="220" key="GridCell.Tab.0.left" timestamp="1592732035968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592731779318" />
-    <state width="1865" height="220" key="GridCell.Tab.0.right" timestamp="1592731779318">
+    <state width="1865" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592732035968" />
+    <state width="1865" height="220" key="GridCell.Tab.0.right" timestamp="1592732035968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1865" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592731779318" />
+    <state width="1865" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592732035968" />
     <state width="1865" height="322" key="GridCell.Tab.1.bottom" timestamp="1592722608204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -236,7 +235,7 @@
     <SUITE FILE_PATH="coverage/Ruby@Enum.rcov" NAME="Enum Coverage Results" MODIFIED="1592667033119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FinalPractise" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@kansuji.rcov" NAME="kansuji Coverage Results" MODIFIED="1592318572181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kansuj/kansuji/lib" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@KanjiToNumber.rcov" NAME="KanjiToNumber Coverage Results" MODIFIED="1592724959670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FinalPractise" MODULE_NAME="Ruby" />
-    <SUITE FILE_PATH="coverage/Ruby@RegexExpression.rcov" NAME="RegexExpression Coverage Results" MODIFIED="1592731776559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RegexExpression" MODULE_NAME="Ruby" />
+    <SUITE FILE_PATH="coverage/Ruby@RegexExpression.rcov" NAME="RegexExpression Coverage Results" MODIFIED="1592732016781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RegexExpression" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@NumberToKanjiString.rcov" NAME="NumberToKanjiString Coverage Results" MODIFIED="1592725314449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MakeTest" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@Hash.rcov" NAME="Hash Coverage Results" MODIFIED="1592646626489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CollectionInRuby" MODULE_NAME="Ruby" />
     <SUITE FILE_PATH="coverage/Ruby@NumberToKanji.rcov" NAME="NumberToKanji Coverage Results" MODIFIED="1592722361293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FinalPractise" MODULE_NAME="Ruby" />
