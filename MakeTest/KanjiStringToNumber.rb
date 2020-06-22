@@ -2,7 +2,6 @@ require 'test/unit'
 class StringToNumber
   def toNumber numberString
     result = 0
-    flag = 0
     $indexOfCurrentMnum = 0
     s_num = {"零" => 0, "一" => 1, "二" => 2, "三" => 3, "四" => 4, "五" => 5, "六" => 6,  "七" => 7, "八"=> 8, "九"=> 9 }
     m_num = { "十" => 10,"百" => 100, "千" => 1000, "万" => 10**4, "億" => 10**8, "兆" => 10**12, "京" => 10**16,
