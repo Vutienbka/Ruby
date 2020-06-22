@@ -1,4 +1,3 @@
-
 require 'test/unit'
 class NumberToString
   def to_Kansuji number
@@ -53,9 +52,10 @@ class NumberToString
       elsif number < 10**88
         return to_Kansuji(number / 10**68) + m_num[:muryootaisuu] + to_Kansuji(number % 10**68)
       else
-        return m_num[:muryootaisuu]
+        return "Invalid number"
       end
-    else return ""
+    else puts "You need type number > 0"
+    return ""
     end
   end
 end
